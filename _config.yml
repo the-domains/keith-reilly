@@ -1,0 +1,47 @@
+name: Keith Reilly
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/43978bd7-fe3f-4fde-b09e-921b489adddf.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/242be743-9c71-464e-bf3e-c997a1eb8389.jpg
+layout_spectrum: 0.4866783141624182
+typography_spectrum: 0.5562684389296919
+analytics: {}
+opengraph:
+  type: ''
+  appId: kreilly1
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/55ef80bc-a744-48b0-b3bf-ebef2822e342.jpg
+color:
+  brandColors:
+    - '#354242'
+    - '#ACEBAE'
+    - '#FFFF9D'
+    - '#C9DE55'
+    - '#7D9100'
+  brandStrength: 0.9751915538160111
+  lightness: 0.8837387859550628
+  saturation: 0.2247130510454795
+  rhythmicContrast: 0.5206413815078887
+purpose:
+  - type: contact
+    label: Contact me!!!
+    url: 'mailto:Keith@KeithReilly.com'
+  - type: contact
+    label: Call 2017882368
+    url: 'tel:2017882368'
+title: Keith Reilly's - Special Properties Real Estate Website
+description: >-
+  Pictures and posts from the Special Properties & Christies Real Estate
+  Websites!
+author:
+  name: Keith Reilly
+  url: 'http://www.keithreilly.com'
+  email: keith@keithreilly.com
+content_rating:
+  adult: false
+navigation:
+  - name: About US!
+    id: b2f67764-845d-453d-bfd3-5bb75dacbee7
+    type: content
+content: []
+github: true
